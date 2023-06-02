@@ -1,3 +1,5 @@
+
+
 const counterValue = document.getElementById('value');
 
 let currentValue = 0;
@@ -12,7 +14,3 @@ document.getElementById('counter').addEventListener('click', event => {
   }
   counterValue.textContent = currentValue;
 })
-
-
-
-
