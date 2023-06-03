@@ -1,5 +1,4 @@
 
-
 const counterValue = document.getElementById('value');
 
 let currentValue = 0;
